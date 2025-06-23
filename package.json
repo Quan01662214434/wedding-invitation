@@ -1,0 +1,4 @@
+{
+"name": "wedding-invitation",
+"scripts": {"dev": "next dev","build": "next build","start": "next start"}
+}

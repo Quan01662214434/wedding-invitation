@@ -1,0 +1,1 @@
+// Component bố cục ảnh
