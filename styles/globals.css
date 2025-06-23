@@ -1,1 +1,11 @@
-/* CSS mặc định */
+/* CSS mặc định */@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-pink-50 text-gray-800 font-sans;
+}
+
+input, select, button {
+  @apply rounded border border-gray-300;
+}
